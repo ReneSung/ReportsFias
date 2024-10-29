@@ -1,11 +1,6 @@
 ﻿using Newtonsoft.Json;
-using System;
-using System.Collections.Generic;
 using System.IO.Compression;
-using System.Linq;
 using System.Net;
-using System.Text;
-using System.Threading.Tasks;
 using System.Xml.Linq;
 
 namespace AdressReport
@@ -117,7 +112,7 @@ namespace AdressReport
 				Console.WriteLine(ex.Message);
 			}
 
-			string rootDirectory = @"D:\repository\reports\адреса";
+			string rootDirectory = @"адреса";
 
 			List<(string Level, string Name, string TypeName)> adressList = new List<(string Level, string Name, string TypeName)>();
 

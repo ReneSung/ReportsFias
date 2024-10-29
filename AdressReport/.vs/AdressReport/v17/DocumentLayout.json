@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\repository\\reports\\AdressReport\\",
+  "WorkspaceRootPath": "C:\\repository\\ReportsFias\\AdressReport\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA841F9B-0366-434F-AB24-AF75BB189CAF}|AdressReport\\AdressReport.csproj|f:\\repository\\reports\\adressreport\\adressreport\\fiasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA841F9B-0366-434F-AB24-AF75BB189CAF}|AdressReport\\AdressReport.csproj|c:\\repository\\reportsfias\\adressreport\\adressreport\\fiasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA841F9B-0366-434F-AB24-AF75BB189CAF}|AdressReport\\AdressReport.csproj|solutionrelative:adressreport\\fiasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA841F9B-0366-434F-AB24-AF75BB189CAF}|AdressReport\\AdressReport.csproj|f:\\repository\\reports\\adressreport\\adressreport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA841F9B-0366-434F-AB24-AF75BB189CAF}|AdressReport\\AdressReport.csproj|c:\\repository\\reportsfias\\adressreport\\adressreport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA841F9B-0366-434F-AB24-AF75BB189CAF}|AdressReport\\AdressReport.csproj|solutionrelative:adressreport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA841F9B-0366-434F-AB24-AF75BB189CAF}|AdressReport\\AdressReport.csproj|f:\\repository\\reports\\adressreport\\adressreport\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AA841F9B-0366-434F-AB24-AF75BB189CAF}|AdressReport\\AdressReport.csproj|c:\\repository\\reportsfias\\adressreport\\adressreport\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA841F9B-0366-434F-AB24-AF75BB189CAF}|AdressReport\\AdressReport.csproj|solutionrelative:adressreport\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,25 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\repository\\reports\\AdressReport\\AdressReport\\Program.cs",
-              "RelativeDocumentMoniker": "AdressReport\\Program.cs",
-              "ToolTip": "F:\\repository\\reports\\AdressReport\\AdressReport\\Program.cs",
-              "RelativeToolTip": "AdressReport\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T18:48:39.483Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
@@ -51,44 +41,43 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FIASRepository.cs",
-              "DocumentMoniker": "F:\\repository\\reports\\AdressReport\\AdressReport\\FIASRepository.cs",
-              "RelativeDocumentMoniker": "AdressReport\\FIASRepository.cs",
-              "ToolTip": "F:\\repository\\reports\\AdressReport\\AdressReport\\FIASRepository.cs",
-              "RelativeToolTip": "AdressReport\\FIASRepository.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAowFYAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repository\\ReportsFias\\AdressReport\\AdressReport\\Program.cs",
+              "RelativeDocumentMoniker": "AdressReport\\Program.cs",
+              "ToolTip": "C:\\repository\\ReportsFias\\AdressReport\\AdressReport\\Program.cs",
+              "RelativeToolTip": "AdressReport\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T01:31:44.246Z",
+              "WhenOpened": "2024-10-29T04:51:40.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Report.cs",
-              "DocumentMoniker": "F:\\repository\\reports\\AdressReport\\AdressReport\\Report.cs",
+              "DocumentMoniker": "C:\\repository\\ReportsFias\\AdressReport\\AdressReport\\Report.cs",
               "RelativeDocumentMoniker": "AdressReport\\Report.cs",
-              "ToolTip": "F:\\repository\\reports\\AdressReport\\AdressReport\\Report.cs",
+              "ToolTip": "C:\\repository\\ReportsFias\\AdressReport\\AdressReport\\Report.cs",
               "RelativeToolTip": "AdressReport\\Report.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAuAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T17:21:22.103Z",
+              "WhenOpened": "2024-10-29T04:50:44.715Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1499,
-          "SelectedChildIndex": -1,
-          "Children": [
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FIASRepository.cs",
+              "DocumentMoniker": "C:\\repository\\ReportsFias\\AdressReport\\AdressReport\\FIASRepository.cs",
+              "RelativeDocumentMoniker": "AdressReport\\FIASRepository.cs",
+              "ToolTip": "C:\\repository\\ReportsFias\\AdressReport\\AdressReport\\FIASRepository.cs",
+              "RelativeToolTip": "AdressReport\\FIASRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:50:43.714Z",
+              "EditorCaption": ""
             }
           ]
         }
