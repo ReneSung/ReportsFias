@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PCubn3dOsm8=",
+  "success": true,
+  "projectFilePath": "F:\\repository\\reports\\AdressReport\\AdressReport\\AdressReport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79524\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
